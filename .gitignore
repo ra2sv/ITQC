@@ -1,0 +1,5 @@
+.idea/
+terget/
+*.iml
+# Project exclude paths
+/out/
